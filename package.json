@@ -1,7 +1,7 @@
 {
   "name": "ckstyle-less",
   "description": "Less Plugin for CKStyle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "wangjeaf <wangjeaf@gmail.com>",
   "homepage": "http://ckstyle.github.io",
   "contributors": [
@@ -14,7 +14,7 @@
     "ckstyle",
     "less"
   ],
-  "repository": "git://github.com/wangjeaf/ckstyle-less",
+  "repository": "git://github.com/ckstyle/ckstyle-less",
   "main": "./index.js",
   "engines": {
     "node": ">= 0.8.0"
@@ -22,7 +22,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/wangjeaf/ckstyle-less/blob/master/LICENSE.md"
+      "url": "https://github.com/ckstyle/ckstyle-less/blob/master/LICENSE.md"
     }
   ]
 }
